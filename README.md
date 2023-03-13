@@ -1,2 +1,2 @@
 # DMA
-Data MOdification Algorithm
+Data Modification Algorithm
